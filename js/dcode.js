@@ -1,10 +1,3 @@
-/* Template Name: DCode - Saas & Software Landing Page Templates
-   Author: SacredThemes
-   Author URL: https://sacredthemes.net
-   Created: August 2020
-   Version: 1.6
-   File Description: Main JS file of the template
-*/
 (function($) {
     "use strict";
     /*---------------------------------------------*
